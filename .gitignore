@@ -1,0 +1,5 @@
+/ply
+/__pycache__
+parser.out
+logSintatico.txt
+parsetab.py
